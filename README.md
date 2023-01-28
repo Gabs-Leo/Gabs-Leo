@@ -7,15 +7,12 @@
   </a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gabs-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Gabs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Gabs-Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabs-Spring" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg)">
+  <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   
   
   <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/410130703427305473/904421531512340611/tumblr_448d0b01b2d8b0904b735d606c7e71b0_42f324ff_400.png?width=676&height=676">
