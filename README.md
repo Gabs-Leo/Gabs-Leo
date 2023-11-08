@@ -15,7 +15,7 @@
   <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
   
   
-  <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/410130703427305473/904421531512340611/tumblr_448d0b01b2d8b0904b735d606c7e71b0_42f324ff_400.png?width=676&height=676">
+  <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/640339858954649600/1171928517135577178/be5aa35f8d7328b7743d6ed8ec73aa76.png?ex=655e767b&is=654c017b&hm=c97cf78dc0d3e95752f49a304e408b556cadec372e8bb37f36419f1c430b554e&=">
 </div>
   
   ##
