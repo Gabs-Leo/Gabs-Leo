@@ -18,7 +18,7 @@
   <img align="center" alt="Gabs-minecraft" height="40" width="40" src="https://cdn.pixabay.com/photo/2016/11/11/14/49/minecraft-1816996_960_720.png">
   
   
-  <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/640339858954649600/1171928517135577178/be5aa35f8d7328b7743d6ed8ec73aa76.png?ex=655e767b&is=654c017b&hm=c97cf78dc0d3e95752f49a304e408b556cadec372e8bb37f36419f1c430b554e&=">
+  <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/410597475091611672/1172373562183647242/be5aa35f8d7328b7743d6ed8ec73aa76.png?ex=656014f6&is=654d9ff6&hm=a66c0f41eafb846a64e55be65163bf6fe73f47ec835e8b4d883b9bd5e43851a1&=">
 </div>
   
   ##
