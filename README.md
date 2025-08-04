@@ -13,12 +13,8 @@
   <img align="center" alt="Gabs-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Gabs-Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
   <img align="center" alt="Gabs-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Gabs-GCP" height="20" width="30" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
   <img align="center" alt="Gabs-AWS" height="20" width="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253504/aws-icon-sm.png">
   <img align="center" alt="Gabs-minecraft" height="40" width="40" src="https://cdn.pixabay.com/photo/2016/11/11/14/49/minecraft-1816996_960_720.png">
-  
-  
-  <img align="right" alt="Gabs-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/410597475091611672/1172373562183647242/be5aa35f8d7328b7743d6ed8ec73aa76.png?ex=656014f6&is=654d9ff6&hm=a66c0f41eafb846a64e55be65163bf6fe73f47ec835e8b4d883b9bd5e43851a1&=">
 </div>
   
   ##
